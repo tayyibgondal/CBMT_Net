@@ -1,0 +1,360 @@
+Experiment Details:
+Experiment Number: 1
+Learning Rate: 0.001
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8476623361748478
+Iteration 2: 0.846351070738003
+Iteration 3: 0.8462537968473511
+
+Experiment Details:
+Experiment Number: 2
+Learning Rate: 0.001
+Encoder Learning Rate: 0.6
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8447168684991164
+Iteration 2: 0.8434343882734822
+Iteration 3: 0.8428556203979028
+
+Experiment Details:
+Experiment Number: 3
+Learning Rate: 0.001
+Encoder Learning Rate: 3
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8495079987221552
+Iteration 2: 0.8479488844439028
+Iteration 3: 0.8476579992012917
+
+Experiment Details:
+Experiment Number: 4
+Learning Rate: 0.001
+Encoder Learning Rate: 9
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8467206258313937
+Iteration 2: 0.8456987583952027
+Iteration 3: 0.8453068575820748
+
+Experiment Details:
+Experiment Number: 5
+Learning Rate: 0.01
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8439261261822846
+Iteration 2: 0.8441336832418781
+
+Experiment Details:
+Experiment Number: 6
+Learning Rate: 0.01
+Encoder Learning Rate: 0.6
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8452054387392598
+Iteration 2: 0.845231971633968
+
+Experiment Details:
+Experiment Number: 7
+Learning Rate: 0.01
+Encoder Learning Rate: 3
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8435203532948149
+Iteration 2: 0.8429842172479246
+
+Experiment Details:
+Experiment Number: 8
+Learning Rate: 0.01
+Encoder Learning Rate: 9
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8485265231844205
+Iteration 2: 0.8480143182997588
+
+Experiment Details:
+Experiment Number: 9
+Learning Rate: 0.1
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8456674222283741
+Iteration 2: 0.8455105243265697
+
+Experiment Details:
+Experiment Number: 10
+Learning Rate: 0.1
+Encoder Learning Rate: 0.6
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8497609281923139
+Iteration 2: 0.8493145248509438
+
+Experiment Details:
+Experiment Number: 11
+Learning Rate: 0.1
+Encoder Learning Rate: 3
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8465981655224867
+Iteration 2: 0.8464319053117771
+
+Experiment Details:
+Experiment Number: 12
+Learning Rate: 0.1
+Encoder Learning Rate: 9
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8471379468279508
+Iteration 2: 0.848257942807387
+Iteration 3: 0.8491891287908762
+
+Experiment Details:
+Experiment Number: 13
+Learning Rate: 0.1
+Encoder Learning Rate: 0.001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8476750719971553
+Iteration 2: 0.8476910739623857
+
+Experiment Details:
+Experiment Number: 14
+Learning Rate: 0.6
+Encoder Learning Rate: 0.001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8465198364651983
+Iteration 2: 0.846739604675674
+
+Experiment Details:
+Experiment Number: 15
+Learning Rate: 3
+Encoder Learning Rate: 0.001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8480052521664021
+Iteration 2: 0.8479873200645403
+
+Experiment Details:
+Experiment Number: 16
+Learning Rate: 9
+Encoder Learning Rate: 0.001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8504501719425521
+Iteration 2: 0.8501437693047332
+
+Experiment Details:
+Experiment Number: 17
+Learning Rate: 0.1
+Encoder Learning Rate: 0.01
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8467384067660221
+Iteration 2: 0.8466866318174947
+
+Experiment Details:
+Experiment Number: 18
+Learning Rate: 0.6
+Encoder Learning Rate: 0.01
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8426002153162294
+Iteration 2: 0.8421729655271283
+
+Experiment Details:
+Experiment Number: 19
+Learning Rate: 3
+Encoder Learning Rate: 0.01
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8457655958685891
+Iteration 2: 0.8452491725353368
+
+Experiment Details:
+Experiment Number: 20
+Learning Rate: 9
+Encoder Learning Rate: 0.01
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8488857770075617
+Iteration 2: 0.850221105339059
+Iteration 3: 0.8502836837149925
+
+Experiment Details:
+Experiment Number: 21
+Learning Rate: 0.1
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8515319724307405
+Iteration 2: 0.8513111374955774
+
+Experiment Details:
+Experiment Number: 22
+Learning Rate: 0.6
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8466849396204155
+Iteration 2: 0.8485773694364677
+Iteration 3: 0.8489567179630599
+
+Experiment Details:
+Experiment Number: 23
+Learning Rate: 3
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8459041647604495
+Iteration 2: 0.8458690355894349
+
+Experiment Details:
+Experiment Number: 24
+Learning Rate: 9
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.847753527586003
+Iteration 2: 0.847906622834649
+
+Experiment Details:
+Experiment Number: 25
+Learning Rate: 0.1
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8474373599828726
+Iteration 2: 0.8476377568206612
+
+Experiment Details:
+Experiment Number: 26
+Learning Rate: 0.6
+Encoder Learning Rate: 0.6
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8422453352832904
+Iteration 2: 0.8424817641211159
+
+Experiment Details:
+Experiment Number: 27
+Learning Rate: 3
+Encoder Learning Rate: 3
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8456195198709464
+Iteration 2: 0.8455243951006954
+
+Experiment Details:
+Experiment Number: 28
+Learning Rate: 9
+Encoder Learning Rate: 9
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8459798198890467
+Iteration 2: 0.8463407951983464
+
+Experiment Details:
+Experiment Number: 29
+Learning Rate: 0.0001
+Encoder Learning Rate: 0.0001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8490065887792787
+Iteration 2: 0.8485463260919984
+
+Experiment Details:
+Experiment Number: 30
+Learning Rate: 0.001
+Encoder Learning Rate: 0.001
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8442934314227405
+Iteration 2: 0.8433714907287045
+
+Experiment Details:
+Experiment Number: 31
+Learning Rate: 0.01
+Encoder Learning Rate: 0.01
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8479889342486516
+Iteration 2: 0.8466159168258737
+Iteration 3: 0.846393765866688
+
+Experiment Details:
+Experiment Number: 32
+Learning Rate: 0.1
+Encoder Learning Rate: 0.1
+Num Epochs: 10
+
+F1 Score:0.39552238805970147
+Losses:
+Iteration 1: 0.8448887832129179
+Iteration 2: 0.8451366748930256
+
